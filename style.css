@@ -2,3 +2,21 @@
     caption-side: top;
     color:black;
 }
+
+img{
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.jumbotron{
+    /* background: radial-gradient(#3f3f7a 5%, #7c7cee 50%, #d1d1d5); */
+    animation: myBgBlue;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes myBgBlue{
+    0%{background: #3f3f7a}
+    50%{background: #7c7cee}
+    100%{background: #3f3f7a}
+}
