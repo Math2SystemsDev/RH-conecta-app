@@ -11,7 +11,7 @@ img{
 .jumbotron{
     /* background: radial-gradient(#3f3f7a 5%, #7c7cee 50%, #d1d1d5); */
     animation: myBgBlue;
-    animation-duration: 8s;
+    animation-duration: 4s;
     animation-iteration-count: infinite;
 }
 
