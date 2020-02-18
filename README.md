@@ -8,4 +8,4 @@ Aplicação web feita usando a grid do bootstrap 4, javascript, Jquery
 - Aprender a usar o sistema de grades do bootstrap framework com layout responsivo.
 - Coletar e manipular elementos da DOM usando jquery e javascript puro.
 - Desenvolver um ícone criativo aplicando boas práticas de design e teoria das cores.
-- Desenvolver um animação de cores simples usando keyframes do css3.
+- Desenvolver uma animação de cores usando keyframes do css3.
