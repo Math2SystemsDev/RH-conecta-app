@@ -1,7 +1,7 @@
 Projeto: https://math2systemsdev.github.io/RH-conecta-app/
 
 # RH conecta app
-Aplicação web feita usando a grid do bootstrap 4, javascript, Jquery
+Aplicação web de página única criada com a grid do bootstrap 4, javascript e Jquery.
 
 # Objetivos
 - Apresentar direitos, deveres e regras aos funcionários de uma empresa. 
